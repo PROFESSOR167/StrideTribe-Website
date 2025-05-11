@@ -42,7 +42,7 @@ const Header: React.FC = () => {
 
         <div className="hidden md:flex items-center space-x-4">
           <a
-            href="https://chat.whatsapp.com/example"
+            href="https://chat.whatsapp.com/B77UOwDyoxE2ZAsEg93tVg"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center bg-white text-black px-4 py-2 rounded-full font-medium hover:bg-gray-100 transition-colors"
@@ -87,7 +87,7 @@ const Header: React.FC = () => {
             </nav>
             <div className="mt-6 space-y-4">
               <a
-                href="https://chat.whatsapp.com/example"
+                href="https://chat.whatsapp.com/B77UOwDyoxE2ZAsEg93tVg"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center bg-white text-black px-4 py-2 rounded-full font-medium hover:bg-gray-100 transition-colors w-full"
